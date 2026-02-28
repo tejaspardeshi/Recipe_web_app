@@ -22,9 +22,7 @@ Here is how the application looks on desktop. (It is fully responsive, so it loo
 
 | Home Page | Recipe Details |
 | :---: | :---: |
-| <img src="./screenshots/home.png" alt="Home Page" width="400"/> | <img src="./screenshots/single-recipe.png" alt="Single Recipe Page" width="400"/> |
-
-*(Note: If you are cloning this, feel free to add your own high-res images to the `screenshots/` folder.)*
+| <img src="./home.png" alt="Home Page" width="400"/> | <img src="./single-recipe.png" alt="Single Recipe Page" width="400"/> |
 
 ## How to Run It Locally
 
