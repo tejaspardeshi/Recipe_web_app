@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🍳 Recipe Web App
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
